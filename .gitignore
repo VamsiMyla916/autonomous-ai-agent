@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore the file containing secret keys
+secrets.py
+
+# Ignore Python's cache and virtual environment folders
+__pycache__/
+venv/
+*.pyc
