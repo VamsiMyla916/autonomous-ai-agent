@@ -7,3 +7,6 @@ secrets.py
 __pycache__/
 venv/
 *.pyc
+
+# Ignore the SQLite database file
+sales_db.sqlite
