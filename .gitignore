@@ -10,3 +10,7 @@ venv/
 
 # Ignore the SQLite database file
 sales_db.sqlite
+
+#ignore this file pushing to git
+
+.env
